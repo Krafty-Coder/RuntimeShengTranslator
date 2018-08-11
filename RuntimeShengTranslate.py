@@ -188,9 +188,16 @@ def RuntimeShengTranslator():
 				print("\n\t SORRY, NO MATCH WAS FOUND FOR '{}'.\n\t IT HAS BEEN ADDED TO NEW WORDS FILE. \n".format(shengWord))
 
 				# Append the new word to the submissions list
+				# Open the submissions file in append mode
 				submissions_file = open("submissions.py", "a+")
+
+				# Append a comma after the last submitted Sheng word
 				submissions_file.write(",")
+
+				# Write the missing Sheng word into the submissions file
 				submissions_file.write(shengWord)
+
+				# Save and close the file
 				submissions_file.close()
 
 				# Print line separator
