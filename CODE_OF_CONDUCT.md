@@ -22,7 +22,7 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
-* Using @RuntimeLab's RuntimeShengTranslator code for commercial purposes without the explicit content of the owners
+* Using @RuntimeLab's RuntimeShengTranslator code for commercial purposes without the explicit consent of the owners
 * Using @RuntimeLab's RuntimeShengTRanslator for proprietary purposes without adhering to the MIT License
 
 ## Our Responsibilities
