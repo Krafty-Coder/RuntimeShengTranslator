@@ -19,7 +19,6 @@
 #	*  Email: https://sites.google.com/view/antonymuga/home  *
 #	----------------------------------------------------------
 
-
 # The below 'import sys' is currently vestigial now but will come in handy while writing new submissions
 # into the individual dictionary files, open, write, close and all that Jazz
 import sys
@@ -186,10 +185,20 @@ def RuntimeShengTranslator():
 			# If the Sheng word does not exist in the chosen dictionary, print the message of no availability
 			elif (shengWord in chosenDictionary().keys()) == False:
 				print("\n\t LANGUAGE: {}\n".format(currentLang))
-				print("\n\t SORRY, NO MATCH WAS FOUND FOR '{}'.".format(shengWord))
+				print("\n\t SORRY, NO MATCH WAS FOUND FOR '{}'.\n\t IT HAS BEEN ADDED TO NEW WORDS FILE. \n".format(shengWord))
 
 				# Append the new word to the submissions list
-				submissions.append(shengWord)
+				# Open the submissions file in append mode
+				submissions_file = open("submissions.py", "a+")
+
+				# Append a comma after the last submitted Sheng word
+				submissions_file.write(",")
+
+				# Write the missing Sheng word into the submissions file
+				submissions_file.write(shengWord)
+
+				# Save and close the file
+				submissions_file.close()
 
 				# Print line separator
 				print("\n","*"*75, "\n")
@@ -229,8 +238,11 @@ def RuntimeShengTranslator():
 					exit()
 			elif (shengWord in chosenDictionary().keys()) == False:
 				print("\n\t CHOSEN LANGUAGE: {}\n".format(currentLang))
-				print("\n\t SORRY, NO MATCH WAS FOUND FOR'{}'.".format(shengWord))
-				submissions.append()
+				print("\n\t SORRY, NO MATCH WAS FOUND FOR '{}'.\n\t IT HAS BEEN ADDED TO NEW WORDS FILE. \n".format(shengWord))
+				submissions_file = open("submissions.py", "a+")
+				submissions_file.write(",")
+				submissions_file.write(shengWord)
+				submissions_file.close()
 				print("\n","*"*75, "\n")
 				translateAnother = int(input("\n\t TRANSLATE ANOTHER SHENG WORD TO {}? \n\t \n\t 1: Yes \n\n\t 2: No \n\n\t Select: ".format(currentLang)))
 				if translateAnother == 1:
