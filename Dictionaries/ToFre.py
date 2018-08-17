@@ -31,7 +31,7 @@ shengToFre = {
 "Adida" : "Football",  
 "Adidaro ": "Adidas",  
 "Adisia" : "Ajouter plus",   
-"Advencha" : "Adventure"  
+"Advencha" : "Adventure",  
 "Afere" : "Tarif bus ou matatu",   
 "Afko" : "De l'alcool",   
 "Agiza" : "Demander quelque chose",   
@@ -55,7 +55,7 @@ shengToFre = {
 "Ambaa ": "Laisser",  
 "Amebeat" : "Il / elle n'est pas attrayant",    
 "Amechapa" : "Il / elle n'est pas attrayant",  
-"Amechoka" : "Il / elle n'est pas attrayant"  
+"Amechoka" : "Il / elle n'est pas attrayant",  
 "Ameparara" : "Il / elle n'est pas attrayant",   
 "Amero ": "les États-Unis d'Amérique", 
 "Amful" : "Cigarette",  
