@@ -1,5 +1,5 @@
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#	*        RUNTIME SHENG TRANSLATOR - ENGLISH TRACK        *
+#	*        RUNTIME SHENG TRANSLATOR - FRENCH  TRACK        *
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #	*  Welcome to Runtime Sheng translator. v1.0.0           *
 #	*  MIT License, Copyright(c) 2018, Antony Muga           *
@@ -19,6 +19,69 @@
 #	*  Email: https://sites.google.com/view/antonymuga/home  *
 #	----------------------------------------------------------
 
-# Below is a dummy dictionary to test if the core RuntimeTranslate core logic works
+# Only has sheng words that start with letter A for now
 
-shengToFre = {"Manight":"Je Night", "Mdhii": "Person", "Wode": "Water", "Lapi": "Laptop", "Mbota": "Watch", "Ndai": "Car"}
+shengToFre = {
+"A-Level" : "Sexe anal",
+"Aajabu ": "Incroyable",
+"Abdala" : "Pénis",  
+"Abdalla ": "Pénis",   
+"Achumbati" : "Une fille",   
+"Achwiti" : "Une fille",   
+"Adida" : "Football",  
+"Adidaro ": "Adidas",  
+"Adisia" : "Ajouter plus",   
+"Advencha" : "Adventure"  
+"Afere" : "Tarif bus ou matatu",   
+"Afko" : "De l'alcool",   
+"Agiza" : "Demander quelque chose",   
+"Agote" : "Dire salut à",  
+"Ahando ": "Cent",  
+"Air ponje" : "Aéroport",   
+"Akadai" : "Il / elle a réclamé",  
+"Akajam ": "Il s'est mis en colère",   
+"Akajangori" : "Il s'est mis en colère",  
+"Akala" : "Sandales faites de vieux pneus",  
+"Akamero" : "Camion à ordures",   
+"Akorino" : "Policier de la circulation",   
+"Alaji" : "Habituellement, un homme avec un gros ventre ou une personne riche", 
+"Alidai" : "Il / elle a réclamé",   
+"Aliningam" : "Il / elle m'a vu",  
+"Alipewa" : "Il / elle a intime avec quelqu'un",  
+"Aliturn" : "Est revenu",  
+"Alloy" : "Jantes de voiture",   
+"Aluru" : "Cailles",  
+"Alutas" : "Miraa/khat",  
+"Ambaa ": "Laisser",  
+"Amebeat" : "Il / elle n'est pas attrayant",    
+"Amechapa" : "Il / elle n'est pas attrayant",  
+"Amechoka" : "Il / elle n'est pas attrayant"  
+"Ameparara" : "Il / elle n'est pas attrayant",   
+"Amero ": "les États-Unis d'Amérique", 
+"Amful" : "Cigarette",  
+"Anadai" : "Il / elle revendique", 
+"Ananedesha ": "Il / elle a l'estomac qui coule",  
+"Angukia" : "Se produire sur quelque chose en manque",
+"Ankara" : "Cannabis Sativa/Bhang",  
+"Ankules" : "Oncle",   
+"Antelope" : "Une belle femme",   
+"Antidhes" : "Tante",  
+"Antinyita" : "Ne pas comprendre quelque chose",   
+"Arbesa" : "Quarante shillings",  
+"Area" : "Quartier voisin",   
+"Arif" : "Un ami ou une connaissance",   
+"Arme" : "Un soldat",   
+"ARV" : "Liqueur de faux ou de deuxième génération",   
+"Asapa" : "Ici",     
+"Ashara" : "Entreprise",   
+"Ashoo" : "Dix shillings",  
+"Ashu" : "Dix shillings",   
+"Atacho" : "Attachement industriel étudiant",   
+"Ati" : "Quelle?",  
+"Atmo" : "Atmosphère",  
+"Atoti" : "Une jolie fille",  
+"Aunty" : "Househelp ou maid",  
+"Avunja" : "Bottes", 
+"Azaara" : "Désastre ou calamité",  
+"Azaro" : "Une chemise"  
+}
