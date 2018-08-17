@@ -1,5 +1,5 @@
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#	*        RUNTIME SHENG TRANSLATOR - FRENCH  TRACK        *
+#	*        RUNTIME SHENG TRANSLATOR - FRENCH TRACK         *
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 #	*  Welcome to Runtime Sheng translator. v1.0.0           *
 #	*  MIT License, Copyright(c) 2018, Antony Muga           *
