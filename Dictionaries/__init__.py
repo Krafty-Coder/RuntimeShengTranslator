@@ -9,7 +9,7 @@
 #	*  Project's Links:                                      *
 #	*  Twitter: https://twitter.com/RuntimeLab               *
 #	*  Runtime Lab on LinkedIn                               *
-#	*  Runtime Lab  on Github                                *
+#	*  RuntimeLab   on Github                                *
 #	*  RuntimeShengTranslator project on GitHub              *
 #	----------------------------------------------------------
 #	*  Personal social links:                                *
