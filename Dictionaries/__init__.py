@@ -1,16 +1,16 @@
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#	*        RUNTIME SHENG TRANSLATOR - ENGLISH TRACK        *
+#	*        RUNTIME SHENG TRANSLATOR - CORE                 *
 #	++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-#	*  Welcome to Runtime Sheng translator. v1.0.0           *
+#	*  Welcome to Runtime Sheng Translator. v1.0.0           *
 #	*  MIT License, Copyright(c) 2018, Antony Muga           *
 #	*  All Rights Reserved.                                  *
 #	*  Author: Antony Muga                                   *
 #	----------------------------------------------------------
 #	*  Project's Links:                                      *
-#	*  Twitter: https://twitter.com/RuntimeClubKe            *
-#	*  Runtime Club on LinkedIn                              *
-#	*  Runtime Club on Github                                *
-#	*  RuntimeTranslate project on GitHub                    *
+#	*  Twitter: https://twitter.com/RuntimeLab               *
+#	*  Runtime Lab on LinkedIn                               *
+#	*  RuntimeLab   on Github                                *
+#	*  RuntimeShengTranslator project on GitHub              *
 #	----------------------------------------------------------
 #	*  Personal social links:                                *
 #	*  GitHub: https://github.com/antonymuga/                *
