@@ -83,7 +83,7 @@ shengToEng = {
 "Aunty" : "Househelp or maid",  
 "Avunja" : "Boots",  
 "Azaara" : "Disaster or calamity",  
-"Azaro" : "A shirt"
+"Azaro" : "A shirt",
 "Baafo": "Long time ago",  
 "Babayao": "Tuff dude/Top dog",  
 "Babe": "A girl, mostly the girlfriend",    
