@@ -19,7 +19,7 @@
 #	*  Email: https://sites.google.com/view/antonymuga/home  *
 #	----------------------------------------------------------
 
-# Only has sheng words that start with letter A and B for now
+# Only has sheng words that start with letter A, B and for now
 
 shengToSpa = {
 "A-Level" : "Sexo anal",
