@@ -1,6 +1,6 @@
 # RuntimeShengTranslator by [@RuntimeLab](https://twitter.com/RuntimeLab).
 ## SPECIFICATIONS AND LICENSING:
-- The end-game is to have an open-source natural language processing library for Sheng slang with support for French, German, Italian and Spanish.
+- Master repository for the RuntimeShengTranslator project.@RuntimeLab aims at translating Sheng slang, which is basically a mixture of urban Swahili and English in Kenya into German, French, Spanish and Italian.The end-game is to have an open-source Natural Language Processing library written in Python, Cython, C++ and Shell.Fork and contribute to this project.
 - Python programming language has been chosen for this project.
 - Current functionality does not support Python version 2.7
 - Follow [@RuntimeLab](https://twitter.com/RuntimeLab) on Twitter for more updates.
