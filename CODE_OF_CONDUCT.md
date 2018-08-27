@@ -1,4 +1,4 @@
-# RuntimeShengTranslator by [@RuntimeLab](https://twitter.com/RuntimeLab) and [Antony Muga](https://antonymuga.github.io/)
+# [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) by [@RuntimeLab](https://twitter.com/RuntimeLab) and [Antony Muga](https://antonymuga.github.io/)
 
 ## RuntimeShengTranslator Code of Conduct
 ## Our Pledge
