@@ -8,7 +8,7 @@
 - Follow [@RuntimeLab](https://twitter.com/RuntimeLab) on Twitter for more updates.
 - Follow [Runtime Lab](https://www.linkedin.com/company/runtime-club?trk=ppro_cprof) on LinkedIn for even more updates.
 
-## MIT LICENSE:
+## [MIT LICENSE](https://opensource.org/licenses/MIT):
 
 ### Copyright (c) 2018 [@RuntimeLab](https://github.com/RuntimeLab), [Antony Muga](https://antonymuga.github.io/)
 
