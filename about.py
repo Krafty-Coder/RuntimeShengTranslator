@@ -32,7 +32,7 @@ projectDetails = """
 		*  TWITTER: https://twitter.com/RuntimeLab               *
 		*  LINKEDIN: Runtime Lab                                 *
 		*  GITHUB: RuntimeLab    organization                    *
-		*  GITHUB: Fork RuntimeTranslate project                 *
+		*  GITHUB: Fork RuntimeShengTranslator project           *
 		----------------------------------------------------------
 		*  AUTHOR: ANTONY MUGA 			                 *
 		*  Personal social links:                                *
@@ -51,7 +51,7 @@ signOff = """
 			LINKEDIN: Runtime Lab
 		---------------------------------------------------------------
 			GITHUB: RuntimeLab organization
-			FORK ON GITHUB & CONTRIBUTE: RuntimeTranslate
+			FORK ON GITHUB & CONTRIBUTE: RuntimeShengTranslator
 		---------------------------------------------------------------
 			AUTHOR: Antony Muga
 			GITHUB: https://github.com/antonymuga/ 
@@ -59,7 +59,7 @@ signOff = """
 			WEBSITE: https://antonymuga.github.io
 			EMAIL: https://sites.google.com/view/antonymuga/home
 		---------------------------------------------------------------
-			Copyright(c) 2018, Antony Muga
+			Copyright(c) 2018, Antony Muga, RuntimeLab
 			https://antonymuga.github.io/
 		---------------------------------------------------------------
 """
