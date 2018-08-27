@@ -22,24 +22,24 @@ Examples of unacceptable behavior by participants include:
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
-* Using @RuntimeLab's RuntimeShengTranslator code for commercial purposes without the explicit consent of the owners
-* Using @RuntimeLab's RuntimeShengTranslator for proprietary purposes without adhering to the MIT License
+* Using [@RuntimeLab](https://twitter.com/RuntimeLab)'s [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) code for commercial purposes without the explicit consent of the owners
+* Using [@RuntimeLab](https://twitter.com/RuntimeLab)'s [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) for proprietary purposes without adhering to the MIT License
 
 ## Our Responsibilities
 
-RuntimeShengTranslator Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+[RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) Project maintainers are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-RuntimeShengTranslator Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+[RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
-This Code of Conduct applies both within RuntimeShengTranslator project spaces and in public spaces when an individual is representing the RuntimeShengTranslator project or its community. Examples of representing a project or community include using an official RuntimeShengTranslator project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a RuntimeShengTranslator project may be further defined and clarified by RuntimeShengTranslator project maintainers.
+This Code of Conduct applies both within [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project spaces and in public spaces when an individual is representing the RuntimeShengTranslator project or its community. Examples of representing a project or community include using an official [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event. Representation of a [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project may be further defined and clarified by [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at runtimelab.info@gmail.com. The RuntimeShengTranslator project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The RuntimeShengTranslator project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at runtimelab.info@gmail.com. The [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project team will review and investigate all complaints, and will respond in a way that it deems appropriate to the circumstances. The [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
-RuntimeShengTranslator Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
+[RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
 ## Attribution
 
