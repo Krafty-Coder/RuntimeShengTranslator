@@ -1,7 +1,7 @@
 # [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) by [@RuntimeLab](https://twitter.com/RuntimeLab) and [Antony Muga](https://antonymuga.github.io/)
 
 ## SPECIFICATIONS AND LICENSING:
-- Master repository for the RuntimeShengTranslator project.[@RuntimeLab](https://twitter.com/RuntimeLab) aims at translating Sheng slang, which is basically a mixture of urban Swahili and English in Kenya into German, French, Spanish and Italian.The end-game is to have an open-source Natural Language Processing library written in Python, Cython, C++ and Shell.Fork and contribute to this project.
+- Master repository for the [RuntimeShengTranslator](https://github.com/RuntimeLab/RuntimeShengTranslator) project.[@RuntimeLab](https://twitter.com/RuntimeLab) aims at translating Sheng slang, which is basically a mixture of urban Swahili and English in Kenya into German, French, Spanish and Italian.The end-game is to have an open-source Natural Language Processing library written in Python, Cython, C++ and Shell.Fork and contribute to this project.
 - Python programming language has been chosen for this project.
 - Please the contribution code of conduct carefully before contributing to this project.[RuntimeShengTranslator CODE OF CONDUCT](https://github.com/RuntimeLab/RuntimeShengTranslator/blob/master/CODE_OF_CONDUCT.md).
 - Current functionality does not support Python version 2.7
