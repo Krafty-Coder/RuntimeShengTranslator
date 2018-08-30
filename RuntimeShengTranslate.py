@@ -23,6 +23,9 @@
 # into the individual dictionary files, open, write, close and all that Jazz
 import sys
 
+# Useful for reverse translations where close matches are needed
+from difflib import SequenceMatcher, get_close_matches
+
 # Import the project details
 import about
 
