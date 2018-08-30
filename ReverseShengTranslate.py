@@ -22,6 +22,9 @@
 # into the individual dictionary files, open, write, close and all that Jazz
 import sys
 
+# Used for finding the nearest matches
+from difflib import get_close_matches, SequenceMatcher
+
 # Import the project details
 import about
 
