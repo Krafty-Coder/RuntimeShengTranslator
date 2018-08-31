@@ -23,8 +23,8 @@
 # into the individual dictionary files, open, write, close and all that Jazz
 import sys
 
-# Useful for reverse translations where close matches are needed
-from difflib import SequenceMatcher, get_close_matches
+# To show the running time of a search
+import time
 
 # Import the project details
 import about
@@ -123,6 +123,8 @@ def RuntimeShengTranslator():
 	PLEASE ENTER A SHENG WORD TO TRANSLATE.
 
 	Your word: """))
+	# The start time for the search as a floating point value
+	start = time.clock()
 
 	# TO DO
 	# Write new logic to test for empty input, the one below is whack
@@ -165,7 +167,13 @@ def RuntimeShengTranslator():
 				print("\n\t LANGUAGE: {}\n".format(currentLang))
 				# Output the translation string, if you do actually write python code, the line below should be self explanatory
 				print("\n\t THE TRANSLATION IS AS FOLLOWS: \n\n\t SHENG         {} \n\n\t '{}' --> '{}'".format(currentLang, shengWord, chosenDictionary()[shengWord]))
+				# Stop time for the RuntimeShengTranslator as a floating point value
+				stop = time.clock()
 
+				# The value of the RuntimeShengTranslator running time as the difference of the start and stop time
+				runningTime = stop - start
+				print("\n","*"*75, "\n")
+				print("\n\t Search ran in: {} seconds.\n\n".format(runningTime))
 				# Print line separator
 				print("\n","*"*75, "\n")
 
@@ -228,6 +236,13 @@ def RuntimeShengTranslator():
 				print("\n","*"*75, "\n")
 				print("\n\t LANGUAGE: {}\n".format(currentLang))
 				print("\n\t THE TRANSLATION IS AS FOLLOWS: \n\n\t SHENG         {} \n\n\t '{}' --> '{}'".format(currentLang, shengWord, chosenDictionary()[shengWord]))
+				# Stop time for the translator as a floating point value
+				stop = time.clock()
+
+				# The value of the RuntimeShengTranslator running time as the difference of the start and stop time
+				runningTime = stop - start
+				print("\n","*"*75, "\n")
+				print("\n\t Search ran in: {} seconds.\n\n".format(runningTime))
 				print("\n","*"*75, "\n")
 				translateAnother = int(input("\n\t TRANSLATE ANOTHER SHENG WORD TO {}? \n\t \n\t 1: Yes \n\n\t 2: No \n\n\t Select: ".format(currentLang)))
 				if translateAnother == 1:
