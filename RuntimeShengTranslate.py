@@ -54,7 +54,8 @@ submissions = []
 
 
 # Select language for translation
-langSelect = int(input("""
+try:
+	langSelect = int(input("""
 
 	PLEASE SELECT THE LANGUAGE YOU WANT TO TRANSLATE SHENG TO:
 
@@ -69,6 +70,10 @@ langSelect = int(input("""
 	  4: ITALIAN
 
 	Language: """))
+
+except ValueError as ValueErr:
+	ValueErrMsg = "\n\n\tInvalid input, please make a valid selection to proceed!\n\n\tOnly integer values are allowed.\n\n\tRuntimeShengTranslator Exited!"
+	raise ValueError(ValueErrMsg)
 
 
 # Select the active dictionary that is to be used for translation
